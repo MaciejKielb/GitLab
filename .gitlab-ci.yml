@@ -1,5 +1,5 @@
 build websitre:
   script:
-    - npm install
-    - npm install -g gatsby-cli
-    - gatsby build
+    - yarn install
+    - yarn install -g gatsby-cli
+    - yarn gatsby build
